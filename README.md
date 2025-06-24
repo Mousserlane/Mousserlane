@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠 Tools & Tech
-![My Skills](https://skillicons.dev/icons?i=neovim,ts,js,css,html,tailwind,py,go,bash,git,github,arch,linux,windows,docker,mongo&perline=9)
+![My Skills](https://skillicons.dev/icons?i=neovim,ts,js,css,html,tailwind,py,go,bash,git,github,arch,linux,windows,docker,mongo,postgres,supabase&perline=9)

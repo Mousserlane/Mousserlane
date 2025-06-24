@@ -1,5 +1,11 @@
 ## Hello there 👋
 
+My name is Arga Aditya. A work in progress software engineer from 🇮🇩
+
+- 🌱 I’m currently learning golang, CLI UI, rust, lua, c, better engineering practices.
+- 🔬 Still uncovering things in JavaScript & TypeScript
+- 📫 Reach me at https://www.linkedin.com/in/arga-aditya-b27207123/
+
 <!--
 **Mousserlane/Mousserlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠 Tools & Tech
+![My Skills](https://skillicons.dev/icons?i=neovim,ts,js,css,html,tailwind,py,go,bash,git,github,arch,linux,windows,docker,mongo&perline=9)

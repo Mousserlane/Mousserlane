@@ -3,7 +3,7 @@
 My name is Arga Aditya. A work in progress software engineer from 🇮🇩
 
 - 🌱 I’m currently learning golang, CLI UI, rust, lua, c, better engineering practices.
-- 🔬 Still uncovering things in JavaScript & TypeScript
+- 🔬 Still uncovering new things in Software Engineering
 - 📫 Reach me at https://www.linkedin.com/in/arga-aditya-b27207123/
 
 <!--

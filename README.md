@@ -1,11 +1,10 @@
 ## Hello there 👋
 
-My name is Arga Aditya. A work in progress software engineer from 🇮🇩
+My name is Arga Aditya. A software engineer.
 
-- 🌱 I’m currently learning golang, CLI UI, rust, lua, c, better engineering practices.
-- 🔬 Still uncovering new things in Software Engineering
+- 🔬 Still exploring new things in Software Engineering
 - 📫 Reach me at https://www.linkedin.com/in/arga-aditya-b27207123/
-
+- 🏗️ Building splitbill.id & jastip.splitbill.id
 <!--
 **Mousserlane/Mousserlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
